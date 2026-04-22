@@ -21,7 +21,7 @@ Built using Tableau to analyze employee attrition and workforce trends.
 The dataset contains employee information such as age, department, job role, education field, and attrition status.
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](HRANALYTICS.png)
 
 ## 📌 Learnings
 - Improved data visualization skills using Tableau
